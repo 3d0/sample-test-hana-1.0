@@ -1,0 +1,1 @@
+# sample-test-hana-1.0
